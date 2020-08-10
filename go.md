@@ -123,6 +123,10 @@ slice := []int{2, 3, 4}
 slice := []byte("Hello")
 ```
 
+```go
+slice[0] // Accessing a slice item
+```
+
 Slices have a dynamic size, unlike arrays.
 
 ### Pointers
